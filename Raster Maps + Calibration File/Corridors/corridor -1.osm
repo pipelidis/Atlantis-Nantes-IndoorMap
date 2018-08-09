@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-78713' action='modify' lat='47.22608122633' lon='-1.63059926004'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78715' action='modify' lat='47.22578239912' lon='-1.63069142241'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78717' action='modify' lat='47.22605459035' lon='-1.63048122457'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78719' action='modify' lat='47.22576998116' lon='-1.63062708419'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78721' action='modify' lat='47.22320262047' lon='-1.63176756254'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78723' action='modify' lat='47.22294045026' lon='-1.63184883188'>
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78725' action='modify' lat='47.22321411914' lon='-1.6318339325'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78727' action='modify' lat='47.22296758724' lon='-1.63196531793'>
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78729' action='modify' lat='47.22335807087' lon='-1.63184174247'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78731' action='modify' lat='47.22332010114' lon='-1.63163794757'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78733' action='modify' lat='47.22334579224' lon='-1.63177583939'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78735' action='modify' lat='47.22333507886' lon='-1.63171833746'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78737' action='modify' lat='47.22323595364' lon='-1.63182429931'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78739' action='modify' lat='47.22322379881' lon='-1.63175969211'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78741' action='modify' lat='47.22567386591' lon='-1.63072808401'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78743' action='modify' lat='47.22566621106' lon='-1.63068029139'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78745' action='modify' lat='47.22569131988' lon='-1.63081014437'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78747' action='modify' lat='47.22565335183' lon='-1.63060454597'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78749' action='modify' lat='47.22576752436' lon='-1.63069644698'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <node id='-78751' action='modify' lat='47.22575674286' lon='-1.63063387202'>
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </node>
+  <way id='-78753' action='modify'>
+    <nd ref='-78713' />
+    <nd ref='-78715' />
+    <tag k='highway' v='steps' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='-78755' action='modify'>
+    <nd ref='-78717' />
+    <nd ref='-78719' />
+    <tag k='highway' v='steps' />
+    <tag k='level' v='-1;0' />
+  </way>
+  <way id='-78757' action='modify'>
+    <nd ref='-78721' />
+    <nd ref='-78723' />
+    <tag k='highway' v='steps' />
+    <tag k='level' v='0;-1' />
+  </way>
+  <way id='-78759' action='modify'>
+    <nd ref='-78725' />
+    <nd ref='-78727' />
+    <tag k='highway' v='steps' />
+    <tag k='level' v='-1;0' />
+  </way>
+  <way id='-78761' action='modify'>
+    <nd ref='-78729' />
+    <nd ref='-78733' />
+    <nd ref='-78735' />
+    <nd ref='-78731' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78763' action='modify'>
+    <nd ref='-78733' />
+    <nd ref='-78737' />
+    <nd ref='-78725' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78765' action='modify'>
+    <nd ref='-78735' />
+    <nd ref='-78739' />
+    <nd ref='-78721' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78767' action='modify'>
+    <nd ref='-78737' />
+    <nd ref='-78739' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78769' action='modify'>
+    <nd ref='-78741' />
+    <nd ref='-78749' />
+    <nd ref='-78715' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78771' action='modify'>
+    <nd ref='-78745' />
+    <nd ref='-78741' />
+    <nd ref='-78743' />
+    <nd ref='-78751' />
+    <nd ref='-78719' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78773' action='modify'>
+    <nd ref='-78743' />
+    <nd ref='-78747' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+  <way id='-78775' action='modify'>
+    <nd ref='-78749' />
+    <nd ref='-78751' />
+    <tag k='highway' v='corridor' />
+    <tag k='level' v='-1' />
+  </way>
+</osm>
